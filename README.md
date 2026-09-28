@@ -1,2 +1,3 @@
 # Trevor-Werbin-Mechanical-Engineering-Portfolio
-Placeholder...
+Description of me
+Table of Contents
