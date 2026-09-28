@@ -8,4 +8,4 @@
 
 **Learning:** I learned multiple new SolidWorks modelling techniques including surface modelling, lofting and using split lines.
 
-<img width="1024" height="768" alt="SolidWorks Orthographic Views" src="https://github.com/user-attachments/assets/76592b98-a7f9-4360-8698-d66138344095" />
+<img width="960" height="720" alt="Canopy Orthographic Views" src="https://github.com/user-attachments/assets/35785f58-cc00-4a94-ab8c-8f9748197016" />
