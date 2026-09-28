@@ -8,4 +8,5 @@
 
 **Learning:** I learned how to create independent mechanical motion paths that could be connected to specific hand movements, preventing wrist rotation from unintentionally triggering extension or retraction of Digit, and learned to use tension and varying string lengths to actuate Digit.
 
-<img width="1024" height="768" alt="Wrist Actuation" src="https://github.com/user-attachments/assets/947f2b0b-c59b-48a0-b8e5-c562637a3ac4" /> <img width="1024" height="768" alt="Wrist Actuation" src="https://github.com/user-attachments/assets/fc58d751-6dee-42b6-9f15-80c16f831795" />
+<img width="960" height="720" alt="Mech Thumb Images" src="https://github.com/user-attachments/assets/99e72f63-dbaa-4373-bc9a-2707fc537406" />
+
