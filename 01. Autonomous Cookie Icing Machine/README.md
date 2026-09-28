@@ -8,4 +8,4 @@
 
 **Learning:** I learned the importance of proper calibration of sensors for reliable autonomous operation since they’re very sensitive to their environment and often don’t behave exactly as stated on the data sheet.
 
-<img width="526" height="615" alt="Icing Machine Pictures" src="https://github.com/user-attachments/assets/115db677-5726-4ebd-825c-96f114c416a7" />
+<img width="1024" height="768" alt="icing" src="https://github.com/user-attachments/assets/f3fbecd4-44de-4492-a1c2-6d5c3f40d439" />
