@@ -3,11 +3,13 @@ Hello!
 
 My name is Trevor Werbin and I'm a Mechanical Engineering student at the University of Waterloo with hands-on experience in mechanical design, fabrication, and product development. Through my internship at Ciena and course projects, I've developed experience with the iterative design process, parametric CAD, 3D printing, machining, applying DFM principles, GD&T, technical drawings, and product testing. The projects in this portfolio showcase my recent engineering work and how I approach challenges from concept through execution.
 
-Portfolio Projects
+**Portfolio Projects**
 
-1. Autonomous Cookie Icing Machine - Autonomously applies custom icing designs to cookies in <4mins
+**1. Autonomous Cookie Icing Machine**
 
-2. Mechanical Thumb Toy
+Autonomously applies custom icing designs to cookies in <4mins
+
+**2. Mechanical Thumb Toy**
 Wearable, actuating, thumb meeting 30N grip force spec with <1s actuation
 
 3. Solar Car Canopy
