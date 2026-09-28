@@ -28,5 +28,5 @@ Functional keychain designed in SolidWorks and machined from aluminum stock
 
 **Contact Information:**
 
-twerbin@uwaterloo.ca | www.linkedin.com/in/trevor-werbin | 647-570-9768
+twerbin@uwaterloo.ca | www.linkedin.com/in/trevor-werbin
 
