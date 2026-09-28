@@ -10,17 +10,22 @@ My name is Trevor Werbin and I'm a Mechanical Engineering student at the Univers
 Autonomously applies custom icing designs to cookies in <4mins
 
 **2. Mechanical Thumb Toy**
+
 Wearable, actuating, thumb meeting 30N grip force spec with <1s actuation
 
-3. Solar Car Canopy
+**3. Solar Car Canopy**
+
 Custom canopy modelled in SolidWorks for the University of Waterloo Midnight Sun solar car optimizing for aerodynamics and driver visibility
 
-4. DIY Dynamometer
+**4. DIY Dynamometer**
+
 Rope brake dynamometer built to measure torque output of a TT motor achieving results within 45% of manufacturer’s specifications
 
-5. Spur Gear Keychain
+**5. Spur Gear Keychain**
+
 Functional keychain designed in SolidWorks and machined from aluminum stock
 
-Contact Information:
+**Contact Information:**
+
 twerbin@uwaterloo.ca | www.linkedin.com/in/trevor-werbin | 647-570-9768
 
