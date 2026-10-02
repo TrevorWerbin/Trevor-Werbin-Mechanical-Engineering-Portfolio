@@ -6,7 +6,7 @@ My name is Trevor Werbin and I'm a Mechanical Engineering student at the Univers
 **Portfolio Projects**
 =======================
 
-**1. Autonomous Cookie Icing Machine**
+[1. Autonomous Cookie Icing Machine](https://github.com/TrevorWerbin/mechanical-portfolio/tree/737e5567109fa98edfac14846b60012aa484bcd6/01.%20Autonomous%20Cookie%20Icing%20Machine)
 
 Autonomously applies custom icing designs to cookies in <4mins
 
