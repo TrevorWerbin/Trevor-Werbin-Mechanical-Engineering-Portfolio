@@ -14,15 +14,15 @@ Autonomously applies custom icing designs to cookies in <4mins
 
 Wearable, actuating, thumb meeting 30N grip force spec with <1s actuation
 
-**3. Solar Car Canopy**
+**[3. Solar Car Canopy](https://github.com/TrevorWerbin/mechanical-portfolio/tree/f34894d92b409c705b02015f18c5ac04d37bdfe3/03.%20Solar%20Car%20Canopy%20-%20UW%20Midnight%20Sun%20Team)**
 
 Custom canopy modelled in SolidWorks for the University of Waterloo Midnight Sun solar car optimizing for aerodynamics and driver visibility
 
-**4. DIY Dynamometer**
+**[4. DIY Dynamometer](https://github.com/TrevorWerbin/mechanical-portfolio/tree/f34894d92b409c705b02015f18c5ac04d37bdfe3/04.%20DIY%20Dynamometer)**
 
 Rope brake dynamometer built to measure torque output of a TT motor achieving results within 45% of manufacturer’s specifications
 
-**5. Spur Gear Keychain**
+**[5. Spur Gear Keychain](https://github.com/TrevorWerbin/mechanical-portfolio/tree/f34894d92b409c705b02015f18c5ac04d37bdfe3/05.%20Spur%20Gear%20Key%20Chain)**
 
 Functional keychain designed in SolidWorks and machined from aluminum stock
 
