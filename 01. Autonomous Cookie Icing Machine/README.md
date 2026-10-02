@@ -13,4 +13,4 @@
 **Learning:** I learned the importance of proper calibration of sensors for reliable autonomous operation since they’re very sensitive to their environment and often don’t behave exactly as stated on the data sheet.
 
 Image of overall, annotated CAD model , annotated icing dispenser (left to right)
-<img width="900" height="500" alt="icing" src="https://github.com/user-attachments/assets/f3fbecd4-44de-4492-a1c2-6d5c3f40d439" />
+<img width="948" height="711" alt="icing" src="https://github.com/user-attachments/assets/f3fbecd4-44de-4492-a1c2-6d5c3f40d439" />
