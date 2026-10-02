@@ -14,4 +14,4 @@
 
 Image of overall, annotated CAD model , annotated icing dispenser (left to right)
 
-<img width="900" height="660" alt="Autonomous Cookie Icing Machine (1)" src="https://github.com/user-attachments/assets/48c82955-0aa9-4a09-a180-11eba316edf6" />
+<img width="840" height="600" alt="Autonomous Cookie Icing Machine (1)" src="https://github.com/user-attachments/assets/48c82955-0aa9-4a09-a180-11eba316edf6" />
