@@ -13,4 +13,5 @@
 **Learning:** I learned the importance of proper calibration of sensors for reliable autonomous operation since they’re very sensitive to their environment and often don’t behave exactly as stated on the data sheet.
 
 Image of overall, annotated CAD model , annotated icing dispenser (left to right)
-<img width="900" height="660" alt="Autonomous Cookie Icing Machine" src="https://github.com/user-attachments/assets/356e387b-06a5-435d-8e6f-fd4103da9a52" />
+
+<img width="900" height="660" alt="Autonomous Cookie Icing Machine (1)" src="https://github.com/user-attachments/assets/48c82955-0aa9-4a09-a180-11eba316edf6" />
