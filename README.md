@@ -6,11 +6,11 @@ My name is Trevor Werbin and I'm a Mechanical Engineering student at the Univers
 **Portfolio Projects**
 =======================
 
-[1. Autonomous Cookie Icing Machine](https://github.com/TrevorWerbin/mechanical-portfolio/tree/737e5567109fa98edfac14846b60012aa484bcd6/01.%20Autonomous%20Cookie%20Icing%20Machine)
+**[1. Autonomous Cookie Icing Machine](https://github.com/TrevorWerbin/mechanical-portfolio/tree/737e5567109fa98edfac14846b60012aa484bcd6/01.%20Autonomous%20Cookie%20Icing%20Machine)**
 
 Autonomously applies custom icing designs to cookies in <4mins
 
-**2. Mechanical Thumb Toy**
+**[2. Mechanical Thumb Toy](https://github.com/TrevorWerbin/mechanical-portfolio/tree/6ebbf9c17fe25d07d6f24b05f49d12007ce2030c/02.%20Mechanical%20Thumb%20Toy)**
 
 Wearable, actuating, thumb meeting 30N grip force spec with <1s actuation
 
